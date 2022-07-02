@@ -107,12 +107,12 @@ let TagsData =
         },
         {
             name: "caption",
-            job: "to insert a caption, words descriping it, for a table",
+            job: "to insert a caption for a table (words describe it)",
             resource:"https://www.w3schools.com/TAgs/tag_caption.asp"
         },
         {
             name: "cite",
-            job: "for th(e title of some creative work (it just makes the text italic but its actual value for SEO)",
+            job: "for the title of some creative work (it just makes the text italic but its actual value for SEO)",
             resource: "https://www.w3schools.com/TAgs/tag_cite.asp"
         },
         {
@@ -125,16 +125,6 @@ let TagsData =
             job: "a container for all graphics drown via javascript",
             resource: "https://www.w3schools.com/TAgs/tag_col.asp"
         },
-        {
-            name: "caption",
-            job: "to insert a caption, words descriping it, for a table",
-            resource:"https://www.w3schools.com/TAgs/tag_caption.asp"
-        },
-        {
-            name: "cite",
-            job: "for the title of some creative work (it just makes the text italic but its actual value for SEO)",
-            resource: "https://www.w3schools.com/TAgs/tag_cite.asp"
-        }
     ]
 
 let container = document.getElementById("container")
