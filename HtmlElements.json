@@ -1,0 +1,141 @@
+
+{
+    "tags": [
+        {
+            "name": "a",
+            "attributes":{
+                "href":"to define the destination",
+                "target": "where to open the linked document (same window or what?)"
+            },
+            "job": "to go to another place",
+            "resource":"https://www.w3schools.com/TAgs/tag_a.asp"
+        },
+        {
+            "name": "abbr",
+            "attributes":{
+                "title": "to add the real words"
+            },
+            "job": "to add an abbreviation for the real words which appear when hovering",
+            "resource":"https://www.w3schools.com/TAgs/tag_abbr.asp"
+        },
+        {
+            "name": "address",
+            "attributes":{},
+            "job": "to add contact information (phone number, e-mail, etc..)",
+            "resource":"https://www.w3schools.com/TAgs/tag_address.asp"
+        },
+        {
+            "name": "area",
+            "attributes":{
+                "shape": "define the shape of the clickable area",
+                "coords": "define the location of it",
+                "href": "the destination if it's clicked"
+            },
+            "job": "used with map (to construct a clickable area on image transfering you to another place)",
+            "resource":"https://www.w3schools.com/TAgs/tag_area.asp"
+        },
+        {
+            "name": "article",
+            "attributes":{},
+            "job": "to add an article (SEO)",
+            "resource":"https://www.w3schools.com/TAgs/tag_article.asp"
+        },
+        {
+            "name": "aside",
+            "attributes":{},
+            "job": "to add a sidebar (SEO)",
+            "resource":"https://www.w3schools.com/TAgs/tag_aside.asp"
+        },
+        {
+            "name": "audio",
+            "attributes": {"controls": "display the audio control(play/pause buttons)", "loop": "start over and over again", "muted":""},
+            "job": "to add a sound file",
+            "resource": "https://www.w3schools.com/TAgs/tag_audio.asp"
+        },
+        {
+            "name": "b",
+            "attributes":{},
+            "job": "to make some text bold",
+            "resource":"https://www.w3schools.com/TAgs/tag_b.asp"
+        },
+        {
+            "name": "base",
+            "attributes": {"href": "the default url", "target": "default target"},
+            "job": "adding a default href and target for all relative URLs (it should be nested within the head tag)",
+            "resource":"https://www.w3schools.com/TAgs/tag_base.asp"
+        },
+        {
+            "name": "bdi (bi-directional isolution)",
+            "attributes":{},
+            "job": "to isolute the unknown direction or right-direction text (some problems happen when left/right direction text meet)",
+            "resource": "https://www.w3schools.com/TAgs/tag_bdi.asp"
+        },
+        {
+            "name": "bdo (bi-directional override)",
+            "attributes": {"dir": "specify the text direction"},
+            "job": "override the current text direction with the mentioned one with dir attribute (hello:olleh)",
+            "resource":"https://www.w3schools.com/TAgs/tag_bdo.asp"
+        },
+        {
+            "name": "blockquote",
+            "attributes":{"cite":"URL source of quotation (SEO)"},
+            "job": "to add a quotation (SEO)",
+            "resource": "https://www.w3schools.com/TAgs/tag_blockquote.asp"
+        },
+        {
+            "name": "br",
+            "attributes":{},
+            "type":"empty tag",
+            "job": "insert single line break",
+            "resource": "https://www.w3schools.com/TAgs/tag_br.asp"
+        },
+        {
+            "name": "button",
+            "attributes": {"type": "the type of the button (submit, reset, button)", "value": "insert an initial value for it"},
+            "job": "to insert a clickable button",
+            "resource":"https://www.w3schools.com/TAgs/tag_button.asp"
+        },
+        {
+            "name": "canvas",
+            "attributes":{},
+            "job": "a container for all graphics drown via javascript",
+            "resource": "https://www.w3schools.com/TAgs/tag_canvas.asp"
+        },
+        {
+            "name": "caption",
+            "attributes": {},
+            "job": "to insert a caption, words descriping it, for a table",
+            "resource":"https://www.w3schools.com/TAgs/tag_caption.asp"
+        },
+        {
+            "name": "cite",
+            "attributes":{},
+            "job": "for the title of some creative work (it just makes the text italic but its actual value for SEO)",
+            "resource": "https://www.w3schools.com/TAgs/tag_cite.asp"
+        },
+        {
+            "name": "code",
+            "attributes": {},
+            "job": "to define some text as computer code (just make its font as monospace font)",
+            "resource":"https://www.w3schools.com/TAgs/tag_code.asp"
+        },
+        {
+            "name": "col",
+            "attributes":{},
+            "job": "a container for all graphics drown via javascript",
+            "resource": "https://www.w3schools.com/TAgs/tag_col.asp"
+        },
+        {
+            "name": "caption",
+            "attributes": {},
+            "job": "to insert a caption, words descriping it, for a table",
+            "resource":"https://www.w3schools.com/TAgs/tag_caption.asp"
+        },
+        {
+            "name": "cite",
+            "attributes":{},
+            "job": "for the title of some creative work (it just makes the text italic but its actual value for SEO)",
+            "resource": "https://www.w3schools.com/TAgs/tag_cite.asp"
+        }
+    ]
+}
