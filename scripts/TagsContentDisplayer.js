@@ -125,6 +125,26 @@ let TagsData =
             job: "a container for all graphics drown via javascript",
             resource: "https://www.w3schools.com/TAgs/tag_col.asp"
         },
+        {
+            name: "img",
+            job: "to add an image by writing the image path in src attribute",
+            resource: "https://www.w3schools.com/tags/tag_img.asp"
+        },
+        {
+            name: "header",
+            job: "container for introductory content like navbar (you can have serveral header tags in one document)",
+            resource: "https://www.w3schools.com/tags/tag_header.asp"
+        },
+        {
+            name: "footer",
+            job: "to add a footer for your page(contact information, copyright information, etc..) (you can have serveral footer tags in one document)",
+            resource: "https://www.w3schools.com/tags/tag_footer.asp"
+        },
+        {
+            name: "main",
+            job: "the main and unique content in the document (one and only one in the document)",
+            resource: "https://www.w3schools.com/tags/tag_main.asp"
+        },
     ]
 
 let container = document.getElementById("container")
